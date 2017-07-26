@@ -1,0 +1,12 @@
+Create a class Fence with instance variables length and width.
+calculate the perimiter using the equation 2*(length+width)
+use the perimiter to calculate the cost based on the type of fence
+if fence is wooden:
+calculate it based on that
+if fence is chain
+calculate it based on that
+use the result of the perimiter to calculate the amount 
+calculate taxes
+add the permit cost on top of the result tax + the amount necessery to build the fence.
+let the user choose what to output using 6 options.
+the user will decide what to see and what to calculate.
